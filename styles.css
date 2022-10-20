@@ -1,0 +1,23 @@
+.btn-primary {
+    color: #fff;
+    background-color: #ff5f01;
+    border-color: #ffffff;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ff7d32;
+    border-color: #ffffff;
+}
+
+.text-secondary {
+    color: #ff5f01 !important;
+}
+
+.display-3 fw-bold text-shadow h1{
+    color: #ff5f01;
+}
+
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+    color: #ff7d32;
+}
